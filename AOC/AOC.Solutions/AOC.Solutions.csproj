@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
@@ -6,6 +6,7 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>AOC</RootNamespace>
-    </PropertyGroup>
+      <UserSecretsId>7a8291c9-1998-42e5-9dd3-e052fc3bdb03</UserSecretsId>
+  </PropertyGroup>
 
 </Project>
